@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\pacman\pacman\init.h(15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\pacman\pacman\init.h(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\pacman\pacman\init.h(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\pacman\pacman\update.h(26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PacMan.vcxproj -> C:\Users\arkad\Documents\DEADSHOT FILES\C++ Programs\SFML\TESTS\PacMan\Debug\PacMan.exe
