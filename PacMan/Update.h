@@ -22,6 +22,10 @@ void pacman_movement()
 
 	if (valid_dot[px][py])
 		valid_dot[px][py] = 0;
+	if (px < 0)
+		px = row - 1;
+	if (px > row - 1)
+		px = 0;
 
 	Pacman.setPosition(px*box_dimensions, py*box_dimensions);
 }

@@ -82,10 +82,12 @@ int main()
 			for (int j = 0; j < row; j++)
 				window.draw(ground[i][j]);
 		window.draw(Map);
+		
 		for (int i = 0; i < col; i++)
 			for (int j = 0; j < row; j++)
 				if (valid_dot[i][j])
 					window.draw(Dot[i][j]);
+
 		window.draw(Pacman);
 		window.display();
 	}
